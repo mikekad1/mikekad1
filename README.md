@@ -10,8 +10,9 @@
   - [Installation and basic configuration of Ubuntu LAMP Server](https://github.com/mikekad1/firewallsandvpns/blob/main/ubunmtulamp.md)
   - [Administering Ubuntu LAMP Server](https://github.com/mikekad1/firewallsandvpns/blob/main/ubuntuadmin.md)
   - [Building Firewall Configuration for Network](https://github.com/mikekad1/firewallsandvpns/blob/main/firewallacl.md)
+  - [Building VPN Configuration for Network](https://github.com/mikekad1/firewallsandvpns/blob/main/vpnconfig.md)
   - [A Simple Guide to WiGLE Android Wardriving](https://github.com/mikekad1/wigle-wireless)
-  - [Trying out "Evil Twin" attack with Pineaple](https://github.com/mikekad1/wigle-wireless)
+  - [Trying out "Evil Twin" attack with Pineaple](https://github.com/mikekad1/wigle-wireless343)
 
 <h2>📜 Certifications:</h2>
 
