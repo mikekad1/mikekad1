@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://www.linkedin.com/in/mike-k-11073a40/">Cloud Security Intern</a> | <a href="https://www.credly.com/users/mykhailo-kadenko/badges">Cybersecurity College Student</a></h1>
+<h1>Hi, I'm Mike! <br/><a href="https://vt.foundation/career-path">Cloud Security Intern</a> | <a href="https://www.senecapolytechnic.ca/ce/technology/network-database-system/cyber-security.html#Curriculum">Cybersecurity College Student</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
