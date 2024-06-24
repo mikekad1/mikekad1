@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://www.freecodecamp.org/news/learn-ruby-on-rails-video-course/">Ruby on Rails Developer in Training</a> | <a href="https://www.senecapolytechnic.ca/ce/technology/network-database-system/cyber-security.html#Curriculum">Cybersecurity College Graduate</a></h1>
+<h1>Hi, I'm Mike! <br/><a href="https://www.senecapolytechnic.ca/ce/technology/network-database-system/cyber-security.html#Curriculum">Cybersecurity College Graduate</a> | <a href="https://www.freecodecamp.org/news/learn-ruby-on-rails-video-course/">Web Developer</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
