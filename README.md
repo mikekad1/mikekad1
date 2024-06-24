@@ -18,6 +18,8 @@
 
 <h2>📜 Certifications:</h2>
 
+- [Comptia Sec+](https://www.credly.com/badges/33a931bf-2e78-494d-b9b6-dbf8786eb72a/public_url)
+- [College Graduation](https://github.com/user-attachments/files/15957654/Graduation.Certificate.pdf)
 - [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/408386426)
 - [ISC2 CC](https://www.credly.com/earner/earned/badge/34957d34-0425-4120-9583-67e2952e38ff)
 
