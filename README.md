@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [A guide for installation of Snort IDS/IPS on a Windows system](https://github.com/mikekad1/networksec/blob/main/snortwindowssetup.md)
   - [Basic Penetration Testing (VulnHub)](https://github.com/mikekad1/basicpentest/tree/main#readme)
   - [Cracking with John The Ripper](https://github.com/mikekad1/jtr)
   - [Fuzzing with AFL](https://github.com/mikekad1/basicpentest/blob/main/fuzzing.md)
